@@ -1,5 +1,3 @@
-version: "3.8"
-
 services: 
     sqlserver:
         container_name: sqlserver
@@ -14,9 +12,14 @@ services:
     web-app:
         container_name: web-app
         build:
-            dockerfile: ./TaskBoard.WebApp/Dockerfile
+            context: .
+            dockerfile: Dockerfile
+        environment:
+            - ASPNETCORE_HTTP_PORTS=80
         ports: 
             - "5000:80"
+        depends_on:
+            - sqlserver
         restart: on-failure
 
 volumes:
