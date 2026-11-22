@@ -13,7 +13,7 @@ services:
         container_name: web-app
         build:
             context: .
-            dockerfile: Dockerfile
+            dockerfile: ./TaskBoard.WebApp/Dockerfile
         environment:
             - ASPNETCORE_HTTP_PORTS=80
         ports: 
