@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TaskBoard.Data")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d4d24aabfc9c6dfcb46d75b5472ba637b26e107f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+321796880097d83aefea582475e3caf2dd7a5c9b")]
 [assembly: System.Reflection.AssemblyProductAttribute("TaskBoard.Data")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TaskBoard.Data")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
