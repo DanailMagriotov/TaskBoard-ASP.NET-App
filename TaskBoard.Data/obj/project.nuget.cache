@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "g9L/wD4Om5Q=",
+  "dgSpecHash": "Im2Py3MfPaI=",
   "success": true,
   "projectFilePath": "D:\\Programming\\Containers and Cloud\\Tema8\\TaskBoard-ASP.NET-App\\TaskBoard.Data\\TaskBoard.Data.csproj",
   "expectedPackageFiles": [
@@ -83,7 +83,7 @@
       "filePath": "D:\\Programming\\Containers and Cloud\\Tema8\\TaskBoard-ASP.NET-App\\TaskBoard.Data\\TaskBoard.Data.csproj",
       "libraryId": "System.Security.Cryptography.Xml",
       "targetGraphs": [
-        "net10.0"
+        "net11.0"
       ]
     }
   ]

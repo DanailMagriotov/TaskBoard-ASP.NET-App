@@ -1,0 +1,14 @@
+D:\Programming\Containers and Cloud\Tema8\TaskBoard-ASP.NET-App\TaskBoard.Data\bin\Debug\net10.0\TaskBoard.Data.deps.json
+D:\Programming\Containers and Cloud\Tema8\TaskBoard-ASP.NET-App\TaskBoard.Data\bin\Debug\net10.0\TaskBoard.Data.dll
+D:\Programming\Containers and Cloud\Tema8\TaskBoard-ASP.NET-App\TaskBoard.Data\bin\Debug\net10.0\TaskBoard.Data.pdb
+D:\Programming\Containers and Cloud\Tema8\TaskBoard-ASP.NET-App\TaskBoard.Data\obj\Debug\net10.0\TaskBoard.Data.csproj.AssemblyReference.cache
+D:\Programming\Containers and Cloud\Tema8\TaskBoard-ASP.NET-App\TaskBoard.Data\obj\Debug\net10.0\TaskBoard.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\Containers and Cloud\Tema8\TaskBoard-ASP.NET-App\TaskBoard.Data\obj\Debug\net10.0\TaskBoard.Data.AssemblyInfoInputs.cache
+D:\Programming\Containers and Cloud\Tema8\TaskBoard-ASP.NET-App\TaskBoard.Data\obj\Debug\net10.0\TaskBoard.Data.AssemblyInfo.cs
+D:\Programming\Containers and Cloud\Tema8\TaskBoard-ASP.NET-App\TaskBoard.Data\obj\Debug\net10.0\TaskBoard.Data.csproj.CoreCompileInputs.cache
+D:\Programming\Containers and Cloud\Tema8\TaskBoard-ASP.NET-App\TaskBoard.Data\obj\Debug\net10.0\TaskBoard.Data.sourcelink.json
+D:\Programming\Containers and Cloud\Tema8\TaskBoard-ASP.NET-App\TaskBoard.Data\obj\Debug\net10.0\TaskBoard.Data.dll
+D:\Programming\Containers and Cloud\Tema8\TaskBoard-ASP.NET-App\TaskBoard.Data\obj\Debug\net10.0\refint\TaskBoard.Data.dll
+D:\Programming\Containers and Cloud\Tema8\TaskBoard-ASP.NET-App\TaskBoard.Data\obj\Debug\net10.0\TaskBoard.Data.pdb
+D:\Programming\Containers and Cloud\Tema8\TaskBoard-ASP.NET-App\TaskBoard.Data\obj\Debug\net10.0\ref\TaskBoard.Data.dll
+D:\Programming\Containers and Cloud\Tema8\TaskBoard-ASP.NET-App\TaskBoard.Data\obj\Debug\net10.0\TaskBoar.761AAA1E.Up2Date

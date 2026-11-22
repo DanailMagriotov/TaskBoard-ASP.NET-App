@@ -1,7 +1,7 @@
 {
   "version": 4,
   "targets": {
-    "net10.0": {
+    "net11.0": {
       "Azure.Core/1.50.0": {
         "type": "package",
         "dependencies": {
@@ -859,66 +859,6 @@
             "locale": "zh-Hans"
           },
           "lib/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll": {
-            "locale": "zh-Hant"
-          }
-        }
-      },
-      "Microsoft.CodeAnalysis.Workspaces.Common/5.0.0": {
-        "type": "package",
-        "dependencies": {
-          "Humanizer.Core": "2.14.1",
-          "Microsoft.CodeAnalysis.Analyzers": "3.11.0",
-          "Microsoft.CodeAnalysis.Common": "[5.0.0]",
-          "System.Composition": "9.0.0"
-        },
-        "compile": {
-          "lib/net9.0/Microsoft.CodeAnalysis.Workspaces.dll": {
-            "related": ".pdb;.xml"
-          }
-        },
-        "runtime": {
-          "lib/net9.0/Microsoft.CodeAnalysis.Workspaces.dll": {
-            "related": ".pdb;.xml"
-          }
-        },
-        "resource": {
-          "lib/net9.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll": {
-            "locale": "cs"
-          },
-          "lib/net9.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll": {
-            "locale": "de"
-          },
-          "lib/net9.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll": {
-            "locale": "es"
-          },
-          "lib/net9.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll": {
-            "locale": "fr"
-          },
-          "lib/net9.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll": {
-            "locale": "it"
-          },
-          "lib/net9.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll": {
-            "locale": "ja"
-          },
-          "lib/net9.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll": {
-            "locale": "ko"
-          },
-          "lib/net9.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll": {
-            "locale": "pl"
-          },
-          "lib/net9.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll": {
-            "locale": "pt-BR"
-          },
-          "lib/net9.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll": {
-            "locale": "ru"
-          },
-          "lib/net9.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll": {
-            "locale": "tr"
-          },
-          "lib/net9.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll": {
-            "locale": "zh-Hans"
-          },
-          "lib/net9.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll": {
             "locale": "zh-Hant"
           }
         }
@@ -2071,7 +2011,7 @@
       },
       "TaskBoard.Data/1.0.0": {
         "type": "project",
-        "framework": ".NETCoreApp,Version=v10.0",
+        "framework": ".NETCoreApp,Version=v11.0",
         "dependencies": {
           "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "10.0.15",
           "Microsoft.EntityFrameworkCore": "10.0.15",
@@ -3692,67 +3632,6 @@
         "lib/netstandard2.0/zh-Hant/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll",
         "microsoft.codeanalysis.visualbasic.workspaces.4.0.0.nupkg.sha512",
         "microsoft.codeanalysis.visualbasic.workspaces.nuspec"
-      ]
-    },
-    "Microsoft.CodeAnalysis.Workspaces.Common/5.0.0": {
-      "sha512": "ZbUmIvT6lqTNKiv06Jl5wf0MTMi1vQ1oH7ou4CLcs2C/no/L7EhP3T8y3XXvn9VbqMcJaJnEsNA1jwYUMgc5jg==",
-      "type": "package",
-      "path": "microsoft.codeanalysis.workspaces.common/5.0.0",
-      "files": [
-        ".nupkg.metadata",
-        ".signature.p7s",
-        "Icon.png",
-        "ThirdPartyNotices.rtf",
-        "lib/net8.0/Microsoft.CodeAnalysis.Workspaces.dll",
-        "lib/net8.0/Microsoft.CodeAnalysis.Workspaces.pdb",
-        "lib/net8.0/Microsoft.CodeAnalysis.Workspaces.xml",
-        "lib/net8.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll",
-        "lib/net8.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll",
-        "lib/net8.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll",
-        "lib/net8.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll",
-        "lib/net8.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll",
-        "lib/net8.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll",
-        "lib/net8.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll",
-        "lib/net8.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll",
-        "lib/net8.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll",
-        "lib/net8.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll",
-        "lib/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll",
-        "lib/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll",
-        "lib/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll",
-        "lib/net9.0/Microsoft.CodeAnalysis.Workspaces.dll",
-        "lib/net9.0/Microsoft.CodeAnalysis.Workspaces.pdb",
-        "lib/net9.0/Microsoft.CodeAnalysis.Workspaces.xml",
-        "lib/net9.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll",
-        "lib/net9.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll",
-        "lib/net9.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll",
-        "lib/net9.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll",
-        "lib/net9.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll",
-        "lib/net9.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll",
-        "lib/net9.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll",
-        "lib/net9.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll",
-        "lib/net9.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll",
-        "lib/net9.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll",
-        "lib/net9.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll",
-        "lib/net9.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll",
-        "lib/net9.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll",
-        "lib/netstandard2.0/Microsoft.CodeAnalysis.Workspaces.dll",
-        "lib/netstandard2.0/Microsoft.CodeAnalysis.Workspaces.pdb",
-        "lib/netstandard2.0/Microsoft.CodeAnalysis.Workspaces.xml",
-        "lib/netstandard2.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll",
-        "lib/netstandard2.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll",
-        "lib/netstandard2.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll",
-        "lib/netstandard2.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll",
-        "lib/netstandard2.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll",
-        "lib/netstandard2.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll",
-        "lib/netstandard2.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll",
-        "lib/netstandard2.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll",
-        "lib/netstandard2.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll",
-        "lib/netstandard2.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll",
-        "lib/netstandard2.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll",
-        "lib/netstandard2.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll",
-        "lib/netstandard2.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll",
-        "microsoft.codeanalysis.workspaces.common.5.0.0.nupkg.sha512",
-        "microsoft.codeanalysis.workspaces.common.nuspec"
       ]
     },
     "Microsoft.CodeAnalysis.Workspaces.MSBuild/5.0.0": {
@@ -5609,7 +5488,7 @@
     }
   },
   "projectFileDependencyGroups": {
-    "net10.0": [
+    "net11.0": [
       "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore >= 10.0.15",
       "Microsoft.AspNetCore.Identity.EntityFrameworkCore >= 10.0.15",
       "Microsoft.AspNetCore.Identity.UI >= 10.0.15",
@@ -5637,16 +5516,16 @@
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
-        "net10.0"
+        "net11.0"
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
-        "net10.0": {
-          "framework": "net10.0",
-          "targetAlias": "net10.0",
+        "net11.0": {
+          "framework": "net11.0",
+          "targetAlias": "net11.0",
           "projectReferences": {
             "D:\\Programming\\Containers and Cloud\\Tema8\\TaskBoard-ASP.NET-App\\TaskBoard.Data\\TaskBoard.Data.csproj": {
               "projectPath": "D:\\Programming\\Containers and Cloud\\Tema8\\TaskBoard-ASP.NET-App\\TaskBoard.Data\\TaskBoard.Data.csproj"
@@ -5667,9 +5546,9 @@
       "SdkAnalysisLevel": "10.0.400"
     },
     "frameworks": {
-      "net10.0": {
-        "framework": "net10.0",
-        "targetAlias": "net10.0",
+      "net11.0": {
+        "framework": "net11.0",
+        "targetAlias": "net11.0",
         "dependencies": {
           "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": {
             "target": "Package",
@@ -6147,7 +6026,7 @@
       "message": "Detected package version outside of dependency constraint: Microsoft.CodeAnalysis.CSharp.Features 4.0.0 requires Microsoft.CodeAnalysis.Common (= 4.0.0) but version Microsoft.CodeAnalysis.Common 5.0.0 was resolved.",
       "libraryId": "Microsoft.CodeAnalysis.Common",
       "targetGraphs": [
-        "net10.0"
+        "net11.0"
       ]
     },
     {
@@ -6157,17 +6036,7 @@
       "message": "Detected package version outside of dependency constraint: Microsoft.CodeAnalysis.CSharp.Features 4.0.0 requires Microsoft.CodeAnalysis.CSharp (= 4.0.0) but version Microsoft.CodeAnalysis.CSharp 5.0.0 was resolved.",
       "libraryId": "Microsoft.CodeAnalysis.CSharp",
       "targetGraphs": [
-        "net10.0"
-      ]
-    },
-    {
-      "code": "NU1608",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Detected package version outside of dependency constraint: Microsoft.CodeAnalysis.CSharp.Features 4.0.0 requires Microsoft.CodeAnalysis.Workspaces.Common (= 4.0.0) but version Microsoft.CodeAnalysis.Workspaces.Common 5.0.0 was resolved.",
-      "libraryId": "Microsoft.CodeAnalysis.Workspaces.Common",
-      "targetGraphs": [
-        "net10.0"
+        "net11.0"
       ]
     },
     {
@@ -6177,7 +6046,7 @@
       "message": "Detected package version outside of dependency constraint: Microsoft.CodeAnalysis.CSharp.Features 4.0.0 requires Microsoft.CodeAnalysis.CSharp.Workspaces (= 4.0.0) but version Microsoft.CodeAnalysis.CSharp.Workspaces 5.0.0 was resolved.",
       "libraryId": "Microsoft.CodeAnalysis.CSharp.Workspaces",
       "targetGraphs": [
-        "net10.0"
+        "net11.0"
       ]
     },
     {
@@ -6187,7 +6056,7 @@
       "message": "Detected package version outside of dependency constraint: Microsoft.CodeAnalysis.CSharp.Scripting 4.0.0 requires Microsoft.CodeAnalysis.Common (= 4.0.0) but version Microsoft.CodeAnalysis.Common 5.0.0 was resolved.",
       "libraryId": "Microsoft.CodeAnalysis.Common",
       "targetGraphs": [
-        "net10.0"
+        "net11.0"
       ]
     },
     {
@@ -6197,7 +6066,7 @@
       "message": "Detected package version outside of dependency constraint: Microsoft.CodeAnalysis.CSharp.Scripting 4.0.0 requires Microsoft.CodeAnalysis.CSharp (= 4.0.0) but version Microsoft.CodeAnalysis.CSharp 5.0.0 was resolved.",
       "libraryId": "Microsoft.CodeAnalysis.CSharp",
       "targetGraphs": [
-        "net10.0"
+        "net11.0"
       ]
     },
     {
@@ -6207,17 +6076,7 @@
       "message": "Detected package version outside of dependency constraint: Microsoft.CodeAnalysis.Features 4.0.0 requires Microsoft.CodeAnalysis.Common (= 4.0.0) but version Microsoft.CodeAnalysis.Common 5.0.0 was resolved.",
       "libraryId": "Microsoft.CodeAnalysis.Common",
       "targetGraphs": [
-        "net10.0"
-      ]
-    },
-    {
-      "code": "NU1608",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Detected package version outside of dependency constraint: Microsoft.CodeAnalysis.Features 4.0.0 requires Microsoft.CodeAnalysis.Workspaces.Common (= 4.0.0) but version Microsoft.CodeAnalysis.Workspaces.Common 5.0.0 was resolved.",
-      "libraryId": "Microsoft.CodeAnalysis.Workspaces.Common",
-      "targetGraphs": [
-        "net10.0"
+        "net11.0"
       ]
     },
     {
@@ -6227,17 +6086,7 @@
       "message": "Detected package version outside of dependency constraint: Microsoft.CodeAnalysis.VisualBasic.Features 4.0.0 requires Microsoft.CodeAnalysis.Common (= 4.0.0) but version Microsoft.CodeAnalysis.Common 5.0.0 was resolved.",
       "libraryId": "Microsoft.CodeAnalysis.Common",
       "targetGraphs": [
-        "net10.0"
-      ]
-    },
-    {
-      "code": "NU1608",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Detected package version outside of dependency constraint: Microsoft.CodeAnalysis.VisualBasic.Features 4.0.0 requires Microsoft.CodeAnalysis.Workspaces.Common (= 4.0.0) but version Microsoft.CodeAnalysis.Workspaces.Common 5.0.0 was resolved.",
-      "libraryId": "Microsoft.CodeAnalysis.Workspaces.Common",
-      "targetGraphs": [
-        "net10.0"
+        "net11.0"
       ]
     },
     {
@@ -6247,17 +6096,7 @@
       "message": "Detected package version outside of dependency constraint: Microsoft.CodeAnalysis.VisualBasic.Workspaces 4.0.0 requires Microsoft.CodeAnalysis.Common (= 4.0.0) but version Microsoft.CodeAnalysis.Common 5.0.0 was resolved.",
       "libraryId": "Microsoft.CodeAnalysis.Common",
       "targetGraphs": [
-        "net10.0"
-      ]
-    },
-    {
-      "code": "NU1608",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Detected package version outside of dependency constraint: Microsoft.CodeAnalysis.VisualBasic.Workspaces 4.0.0 requires Microsoft.CodeAnalysis.Workspaces.Common (= 4.0.0) but version Microsoft.CodeAnalysis.Workspaces.Common 5.0.0 was resolved.",
-      "libraryId": "Microsoft.CodeAnalysis.Workspaces.Common",
-      "targetGraphs": [
-        "net10.0"
+        "net11.0"
       ]
     },
     {
@@ -6267,7 +6106,7 @@
       "message": "Detected package version outside of dependency constraint: Microsoft.CodeAnalysis.Scripting.Common 4.0.0 requires Microsoft.CodeAnalysis.Common (= 4.0.0) but version Microsoft.CodeAnalysis.Common 5.0.0 was resolved.",
       "libraryId": "Microsoft.CodeAnalysis.Common",
       "targetGraphs": [
-        "net10.0"
+        "net11.0"
       ]
     },
     {
@@ -6277,7 +6116,7 @@
       "message": "Detected package version outside of dependency constraint: Microsoft.CodeAnalysis.VisualBasic 4.0.0 requires Microsoft.CodeAnalysis.Common (= 4.0.0) but version Microsoft.CodeAnalysis.Common 5.0.0 was resolved.",
       "libraryId": "Microsoft.CodeAnalysis.Common",
       "targetGraphs": [
-        "net10.0"
+        "net11.0"
       ]
     },
     {
@@ -6287,7 +6126,7 @@
       "message": "Package 'MessagePack' 2.1.152 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-2f33-pr97-265q",
       "libraryId": "MessagePack",
       "targetGraphs": [
-        "net10.0"
+        "net11.0"
       ]
     },
     {
@@ -6297,7 +6136,7 @@
       "message": "Package 'MessagePack' 2.1.152 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-2x83-8g95-xh59",
       "libraryId": "MessagePack",
       "targetGraphs": [
-        "net10.0"
+        "net11.0"
       ]
     },
     {
@@ -6307,7 +6146,7 @@
       "message": "Package 'MessagePack' 2.1.152 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-4qm4-8hg2-g2xm",
       "libraryId": "MessagePack",
       "targetGraphs": [
-        "net10.0"
+        "net11.0"
       ]
     },
     {
@@ -6317,7 +6156,7 @@
       "message": "Package 'MessagePack' 2.1.152 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-cj9g-3mj2-g8vv",
       "libraryId": "MessagePack",
       "targetGraphs": [
-        "net10.0"
+        "net11.0"
       ]
     },
     {
@@ -6327,7 +6166,7 @@
       "message": "Package 'MessagePack' 2.1.152 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-cxmj-83gh-fp49",
       "libraryId": "MessagePack",
       "targetGraphs": [
-        "net10.0"
+        "net11.0"
       ]
     },
     {
@@ -6337,7 +6176,7 @@
       "message": "Package 'MessagePack' 2.1.152 has a known high severity vulnerability, https://github.com/advisories/GHSA-hv8m-jj95-wg3x",
       "libraryId": "MessagePack",
       "targetGraphs": [
-        "net10.0"
+        "net11.0"
       ]
     },
     {
@@ -6347,7 +6186,7 @@
       "message": "Package 'MessagePack' 2.1.152 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-q2h6-ghwm-5qm8",
       "libraryId": "MessagePack",
       "targetGraphs": [
-        "net10.0"
+        "net11.0"
       ]
     },
     {
@@ -6357,7 +6196,7 @@
       "message": "Package 'MessagePack' 2.1.152 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-qhmf-xw27-6rqr",
       "libraryId": "MessagePack",
       "targetGraphs": [
-        "net10.0"
+        "net11.0"
       ]
     },
     {
@@ -6367,7 +6206,7 @@
       "message": "Package 'MessagePack' 2.1.152 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-qhrr-8q5h-9q3h",
       "libraryId": "MessagePack",
       "targetGraphs": [
-        "net10.0"
+        "net11.0"
       ]
     },
     {
@@ -6377,7 +6216,7 @@
       "message": "Package 'MessagePack' 2.1.152 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-v72x-2h86-7f8m",
       "libraryId": "MessagePack",
       "targetGraphs": [
-        "net10.0"
+        "net11.0"
       ]
     },
     {
@@ -6387,7 +6226,7 @@
       "message": "Package 'MessagePack' 2.1.152 has a known high severity vulnerability, https://github.com/advisories/GHSA-vh6j-jc39-fggf",
       "libraryId": "MessagePack",
       "targetGraphs": [
-        "net10.0"
+        "net11.0"
       ]
     },
     {
@@ -6397,7 +6236,7 @@
       "message": "Package 'MessagePack' 2.1.152 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-w567-gjr2-hm5j",
       "libraryId": "MessagePack",
       "targetGraphs": [
-        "net10.0"
+        "net11.0"
       ]
     },
     {
@@ -6407,7 +6246,7 @@
       "message": "Package 'MessagePack' 2.1.152 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-wfr3-xj75-pfwh",
       "libraryId": "MessagePack",
       "targetGraphs": [
-        "net10.0"
+        "net11.0"
       ]
     },
     {
@@ -6417,7 +6256,7 @@
       "message": "Package 'NuGet.Common' 6.2.1 has a known high severity vulnerability, https://github.com/advisories/GHSA-6qmf-mmc7-6c2p",
       "libraryId": "NuGet.Common",
       "targetGraphs": [
-        "net10.0"
+        "net11.0"
       ]
     },
     {
@@ -6427,7 +6266,7 @@
       "message": "Package 'NuGet.Protocol' 5.11.0 has a known high severity vulnerability, https://github.com/advisories/GHSA-6qmf-mmc7-6c2p",
       "libraryId": "NuGet.Protocol",
       "targetGraphs": [
-        "net10.0"
+        "net11.0"
       ]
     },
     {
@@ -6437,7 +6276,7 @@
       "message": "Package 'NuGet.Protocol' 5.11.0 has a known high severity vulnerability, https://github.com/advisories/GHSA-g3q9-xf95-8hp5",
       "libraryId": "NuGet.Protocol",
       "targetGraphs": [
-        "net10.0"
+        "net11.0"
       ]
     },
     {
@@ -6447,7 +6286,16 @@
       "message": "Package 'NuGet.Protocol' 5.11.0 has a known low severity vulnerability, https://github.com/advisories/GHSA-g4vj-cjjj-v7hg",
       "libraryId": "NuGet.Protocol",
       "targetGraphs": [
-        "net10.0"
+        "net11.0"
+      ]
+    },
+    {
+      "code": "NU1107",
+      "level": "Error",
+      "message": "Version conflict detected for Microsoft.CodeAnalysis.Workspaces.Common. Install/reference Microsoft.CodeAnalysis.Workspaces.Common 5.0.0 directly to project TaskBoard.WebApp to resolve this issue. \r\n TaskBoard.WebApp -> Microsoft.VisualStudio.Web.CodeGeneration.Design 6.0.10 -> Microsoft.DotNet.Scaffolding.Shared 6.0.10 -> Microsoft.CodeAnalysis.CSharp.Workspaces 5.0.0 -> Microsoft.CodeAnalysis.Workspaces.Common (= 5.0.0) \r\n TaskBoard.WebApp -> Microsoft.VisualStudio.Web.CodeGeneration.Design 6.0.10 -> Microsoft.DotNet.Scaffolding.Shared 6.0.10 -> Microsoft.CodeAnalysis.CSharp.Features 4.0.0 -> Microsoft.CodeAnalysis.Workspaces.Common (= 4.0.0).",
+      "libraryId": "Microsoft.CodeAnalysis.Workspaces.Common",
+      "targetGraphs": [
+        "net11.0"
       ]
     }
   ]

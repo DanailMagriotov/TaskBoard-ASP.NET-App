@@ -1,7 +1,7 @@
 {
   "version": 2,
-  "dgSpecHash": "OPlKNhPYoBQ=",
-  "success": true,
+  "dgSpecHash": "wBIhGUJ8xhg=",
+  "success": false,
   "projectFilePath": "D:\\Programming\\Containers and Cloud\\Tema8\\TaskBoard-ASP.NET-App\\TaskBoard.WebApp\\TaskBoard.WebApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\d_mag\\.nuget\\packages\\azure.core\\1.50.0\\azure.core.1.50.0.nupkg.sha512",
@@ -32,7 +32,6 @@
     "C:\\Users\\d_mag\\.nuget\\packages\\microsoft.codeanalysis.visualbasic\\4.0.0\\microsoft.codeanalysis.visualbasic.4.0.0.nupkg.sha512",
     "C:\\Users\\d_mag\\.nuget\\packages\\microsoft.codeanalysis.visualbasic.features\\4.0.0\\microsoft.codeanalysis.visualbasic.features.4.0.0.nupkg.sha512",
     "C:\\Users\\d_mag\\.nuget\\packages\\microsoft.codeanalysis.visualbasic.workspaces\\4.0.0\\microsoft.codeanalysis.visualbasic.workspaces.4.0.0.nupkg.sha512",
-    "C:\\Users\\d_mag\\.nuget\\packages\\microsoft.codeanalysis.workspaces.common\\5.0.0\\microsoft.codeanalysis.workspaces.common.5.0.0.nupkg.sha512",
     "C:\\Users\\d_mag\\.nuget\\packages\\microsoft.codeanalysis.workspaces.msbuild\\5.0.0\\microsoft.codeanalysis.workspaces.msbuild.5.0.0.nupkg.sha512",
     "C:\\Users\\d_mag\\.nuget\\packages\\microsoft.data.sqlclient\\6.1.7\\microsoft.data.sqlclient.6.1.7.nupkg.sha512",
     "C:\\Users\\d_mag\\.nuget\\packages\\microsoft.data.sqlclient.sni.runtime\\6.0.3\\microsoft.data.sqlclient.sni.runtime.6.0.3.nupkg.sha512",
@@ -105,7 +104,7 @@
       "filePath": "D:\\Programming\\Containers and Cloud\\Tema8\\TaskBoard-ASP.NET-App\\TaskBoard.WebApp\\TaskBoard.WebApp.csproj",
       "libraryId": "Microsoft.CodeAnalysis.Common",
       "targetGraphs": [
-        "net10.0"
+        "net11.0"
       ]
     },
     {
@@ -117,19 +116,7 @@
       "filePath": "D:\\Programming\\Containers and Cloud\\Tema8\\TaskBoard-ASP.NET-App\\TaskBoard.WebApp\\TaskBoard.WebApp.csproj",
       "libraryId": "Microsoft.CodeAnalysis.CSharp",
       "targetGraphs": [
-        "net10.0"
-      ]
-    },
-    {
-      "code": "NU1608",
-      "level": "Warning",
-      "message": "Detected package version outside of dependency constraint: Microsoft.CodeAnalysis.CSharp.Features 4.0.0 requires Microsoft.CodeAnalysis.Workspaces.Common (= 4.0.0) but version Microsoft.CodeAnalysis.Workspaces.Common 5.0.0 was resolved.",
-      "projectPath": "D:\\Programming\\Containers and Cloud\\Tema8\\TaskBoard-ASP.NET-App\\TaskBoard.WebApp\\TaskBoard.WebApp.csproj",
-      "warningLevel": 1,
-      "filePath": "D:\\Programming\\Containers and Cloud\\Tema8\\TaskBoard-ASP.NET-App\\TaskBoard.WebApp\\TaskBoard.WebApp.csproj",
-      "libraryId": "Microsoft.CodeAnalysis.Workspaces.Common",
-      "targetGraphs": [
-        "net10.0"
+        "net11.0"
       ]
     },
     {
@@ -141,7 +128,7 @@
       "filePath": "D:\\Programming\\Containers and Cloud\\Tema8\\TaskBoard-ASP.NET-App\\TaskBoard.WebApp\\TaskBoard.WebApp.csproj",
       "libraryId": "Microsoft.CodeAnalysis.CSharp.Workspaces",
       "targetGraphs": [
-        "net10.0"
+        "net11.0"
       ]
     },
     {
@@ -153,7 +140,7 @@
       "filePath": "D:\\Programming\\Containers and Cloud\\Tema8\\TaskBoard-ASP.NET-App\\TaskBoard.WebApp\\TaskBoard.WebApp.csproj",
       "libraryId": "Microsoft.CodeAnalysis.Common",
       "targetGraphs": [
-        "net10.0"
+        "net11.0"
       ]
     },
     {
@@ -165,7 +152,7 @@
       "filePath": "D:\\Programming\\Containers and Cloud\\Tema8\\TaskBoard-ASP.NET-App\\TaskBoard.WebApp\\TaskBoard.WebApp.csproj",
       "libraryId": "Microsoft.CodeAnalysis.CSharp",
       "targetGraphs": [
-        "net10.0"
+        "net11.0"
       ]
     },
     {
@@ -177,19 +164,7 @@
       "filePath": "D:\\Programming\\Containers and Cloud\\Tema8\\TaskBoard-ASP.NET-App\\TaskBoard.WebApp\\TaskBoard.WebApp.csproj",
       "libraryId": "Microsoft.CodeAnalysis.Common",
       "targetGraphs": [
-        "net10.0"
-      ]
-    },
-    {
-      "code": "NU1608",
-      "level": "Warning",
-      "message": "Detected package version outside of dependency constraint: Microsoft.CodeAnalysis.Features 4.0.0 requires Microsoft.CodeAnalysis.Workspaces.Common (= 4.0.0) but version Microsoft.CodeAnalysis.Workspaces.Common 5.0.0 was resolved.",
-      "projectPath": "D:\\Programming\\Containers and Cloud\\Tema8\\TaskBoard-ASP.NET-App\\TaskBoard.WebApp\\TaskBoard.WebApp.csproj",
-      "warningLevel": 1,
-      "filePath": "D:\\Programming\\Containers and Cloud\\Tema8\\TaskBoard-ASP.NET-App\\TaskBoard.WebApp\\TaskBoard.WebApp.csproj",
-      "libraryId": "Microsoft.CodeAnalysis.Workspaces.Common",
-      "targetGraphs": [
-        "net10.0"
+        "net11.0"
       ]
     },
     {
@@ -201,19 +176,7 @@
       "filePath": "D:\\Programming\\Containers and Cloud\\Tema8\\TaskBoard-ASP.NET-App\\TaskBoard.WebApp\\TaskBoard.WebApp.csproj",
       "libraryId": "Microsoft.CodeAnalysis.Common",
       "targetGraphs": [
-        "net10.0"
-      ]
-    },
-    {
-      "code": "NU1608",
-      "level": "Warning",
-      "message": "Detected package version outside of dependency constraint: Microsoft.CodeAnalysis.VisualBasic.Features 4.0.0 requires Microsoft.CodeAnalysis.Workspaces.Common (= 4.0.0) but version Microsoft.CodeAnalysis.Workspaces.Common 5.0.0 was resolved.",
-      "projectPath": "D:\\Programming\\Containers and Cloud\\Tema8\\TaskBoard-ASP.NET-App\\TaskBoard.WebApp\\TaskBoard.WebApp.csproj",
-      "warningLevel": 1,
-      "filePath": "D:\\Programming\\Containers and Cloud\\Tema8\\TaskBoard-ASP.NET-App\\TaskBoard.WebApp\\TaskBoard.WebApp.csproj",
-      "libraryId": "Microsoft.CodeAnalysis.Workspaces.Common",
-      "targetGraphs": [
-        "net10.0"
+        "net11.0"
       ]
     },
     {
@@ -225,19 +188,7 @@
       "filePath": "D:\\Programming\\Containers and Cloud\\Tema8\\TaskBoard-ASP.NET-App\\TaskBoard.WebApp\\TaskBoard.WebApp.csproj",
       "libraryId": "Microsoft.CodeAnalysis.Common",
       "targetGraphs": [
-        "net10.0"
-      ]
-    },
-    {
-      "code": "NU1608",
-      "level": "Warning",
-      "message": "Detected package version outside of dependency constraint: Microsoft.CodeAnalysis.VisualBasic.Workspaces 4.0.0 requires Microsoft.CodeAnalysis.Workspaces.Common (= 4.0.0) but version Microsoft.CodeAnalysis.Workspaces.Common 5.0.0 was resolved.",
-      "projectPath": "D:\\Programming\\Containers and Cloud\\Tema8\\TaskBoard-ASP.NET-App\\TaskBoard.WebApp\\TaskBoard.WebApp.csproj",
-      "warningLevel": 1,
-      "filePath": "D:\\Programming\\Containers and Cloud\\Tema8\\TaskBoard-ASP.NET-App\\TaskBoard.WebApp\\TaskBoard.WebApp.csproj",
-      "libraryId": "Microsoft.CodeAnalysis.Workspaces.Common",
-      "targetGraphs": [
-        "net10.0"
+        "net11.0"
       ]
     },
     {
@@ -249,7 +200,7 @@
       "filePath": "D:\\Programming\\Containers and Cloud\\Tema8\\TaskBoard-ASP.NET-App\\TaskBoard.WebApp\\TaskBoard.WebApp.csproj",
       "libraryId": "Microsoft.CodeAnalysis.Common",
       "targetGraphs": [
-        "net10.0"
+        "net11.0"
       ]
     },
     {
@@ -261,7 +212,7 @@
       "filePath": "D:\\Programming\\Containers and Cloud\\Tema8\\TaskBoard-ASP.NET-App\\TaskBoard.WebApp\\TaskBoard.WebApp.csproj",
       "libraryId": "Microsoft.CodeAnalysis.Common",
       "targetGraphs": [
-        "net10.0"
+        "net11.0"
       ]
     },
     {
@@ -273,7 +224,7 @@
       "filePath": "D:\\Programming\\Containers and Cloud\\Tema8\\TaskBoard-ASP.NET-App\\TaskBoard.WebApp\\TaskBoard.WebApp.csproj",
       "libraryId": "MessagePack",
       "targetGraphs": [
-        "net10.0"
+        "net11.0"
       ]
     },
     {
@@ -285,7 +236,7 @@
       "filePath": "D:\\Programming\\Containers and Cloud\\Tema8\\TaskBoard-ASP.NET-App\\TaskBoard.WebApp\\TaskBoard.WebApp.csproj",
       "libraryId": "MessagePack",
       "targetGraphs": [
-        "net10.0"
+        "net11.0"
       ]
     },
     {
@@ -297,7 +248,7 @@
       "filePath": "D:\\Programming\\Containers and Cloud\\Tema8\\TaskBoard-ASP.NET-App\\TaskBoard.WebApp\\TaskBoard.WebApp.csproj",
       "libraryId": "MessagePack",
       "targetGraphs": [
-        "net10.0"
+        "net11.0"
       ]
     },
     {
@@ -309,7 +260,7 @@
       "filePath": "D:\\Programming\\Containers and Cloud\\Tema8\\TaskBoard-ASP.NET-App\\TaskBoard.WebApp\\TaskBoard.WebApp.csproj",
       "libraryId": "MessagePack",
       "targetGraphs": [
-        "net10.0"
+        "net11.0"
       ]
     },
     {
@@ -321,7 +272,7 @@
       "filePath": "D:\\Programming\\Containers and Cloud\\Tema8\\TaskBoard-ASP.NET-App\\TaskBoard.WebApp\\TaskBoard.WebApp.csproj",
       "libraryId": "MessagePack",
       "targetGraphs": [
-        "net10.0"
+        "net11.0"
       ]
     },
     {
@@ -333,7 +284,7 @@
       "filePath": "D:\\Programming\\Containers and Cloud\\Tema8\\TaskBoard-ASP.NET-App\\TaskBoard.WebApp\\TaskBoard.WebApp.csproj",
       "libraryId": "MessagePack",
       "targetGraphs": [
-        "net10.0"
+        "net11.0"
       ]
     },
     {
@@ -345,7 +296,7 @@
       "filePath": "D:\\Programming\\Containers and Cloud\\Tema8\\TaskBoard-ASP.NET-App\\TaskBoard.WebApp\\TaskBoard.WebApp.csproj",
       "libraryId": "MessagePack",
       "targetGraphs": [
-        "net10.0"
+        "net11.0"
       ]
     },
     {
@@ -357,7 +308,7 @@
       "filePath": "D:\\Programming\\Containers and Cloud\\Tema8\\TaskBoard-ASP.NET-App\\TaskBoard.WebApp\\TaskBoard.WebApp.csproj",
       "libraryId": "MessagePack",
       "targetGraphs": [
-        "net10.0"
+        "net11.0"
       ]
     },
     {
@@ -369,7 +320,7 @@
       "filePath": "D:\\Programming\\Containers and Cloud\\Tema8\\TaskBoard-ASP.NET-App\\TaskBoard.WebApp\\TaskBoard.WebApp.csproj",
       "libraryId": "MessagePack",
       "targetGraphs": [
-        "net10.0"
+        "net11.0"
       ]
     },
     {
@@ -381,7 +332,7 @@
       "filePath": "D:\\Programming\\Containers and Cloud\\Tema8\\TaskBoard-ASP.NET-App\\TaskBoard.WebApp\\TaskBoard.WebApp.csproj",
       "libraryId": "MessagePack",
       "targetGraphs": [
-        "net10.0"
+        "net11.0"
       ]
     },
     {
@@ -393,7 +344,7 @@
       "filePath": "D:\\Programming\\Containers and Cloud\\Tema8\\TaskBoard-ASP.NET-App\\TaskBoard.WebApp\\TaskBoard.WebApp.csproj",
       "libraryId": "MessagePack",
       "targetGraphs": [
-        "net10.0"
+        "net11.0"
       ]
     },
     {
@@ -405,7 +356,7 @@
       "filePath": "D:\\Programming\\Containers and Cloud\\Tema8\\TaskBoard-ASP.NET-App\\TaskBoard.WebApp\\TaskBoard.WebApp.csproj",
       "libraryId": "MessagePack",
       "targetGraphs": [
-        "net10.0"
+        "net11.0"
       ]
     },
     {
@@ -417,7 +368,7 @@
       "filePath": "D:\\Programming\\Containers and Cloud\\Tema8\\TaskBoard-ASP.NET-App\\TaskBoard.WebApp\\TaskBoard.WebApp.csproj",
       "libraryId": "MessagePack",
       "targetGraphs": [
-        "net10.0"
+        "net11.0"
       ]
     },
     {
@@ -429,7 +380,7 @@
       "filePath": "D:\\Programming\\Containers and Cloud\\Tema8\\TaskBoard-ASP.NET-App\\TaskBoard.WebApp\\TaskBoard.WebApp.csproj",
       "libraryId": "NuGet.Common",
       "targetGraphs": [
-        "net10.0"
+        "net11.0"
       ]
     },
     {
@@ -441,7 +392,7 @@
       "filePath": "D:\\Programming\\Containers and Cloud\\Tema8\\TaskBoard-ASP.NET-App\\TaskBoard.WebApp\\TaskBoard.WebApp.csproj",
       "libraryId": "NuGet.Protocol",
       "targetGraphs": [
-        "net10.0"
+        "net11.0"
       ]
     },
     {
@@ -453,7 +404,7 @@
       "filePath": "D:\\Programming\\Containers and Cloud\\Tema8\\TaskBoard-ASP.NET-App\\TaskBoard.WebApp\\TaskBoard.WebApp.csproj",
       "libraryId": "NuGet.Protocol",
       "targetGraphs": [
-        "net10.0"
+        "net11.0"
       ]
     },
     {
@@ -465,7 +416,18 @@
       "filePath": "D:\\Programming\\Containers and Cloud\\Tema8\\TaskBoard-ASP.NET-App\\TaskBoard.WebApp\\TaskBoard.WebApp.csproj",
       "libraryId": "NuGet.Protocol",
       "targetGraphs": [
-        "net10.0"
+        "net11.0"
+      ]
+    },
+    {
+      "code": "NU1107",
+      "level": "Error",
+      "message": "Version conflict detected for Microsoft.CodeAnalysis.Workspaces.Common. Install/reference Microsoft.CodeAnalysis.Workspaces.Common 5.0.0 directly to project TaskBoard.WebApp to resolve this issue. \r\n TaskBoard.WebApp -> Microsoft.VisualStudio.Web.CodeGeneration.Design 6.0.10 -> Microsoft.DotNet.Scaffolding.Shared 6.0.10 -> Microsoft.CodeAnalysis.CSharp.Workspaces 5.0.0 -> Microsoft.CodeAnalysis.Workspaces.Common (= 5.0.0) \r\n TaskBoard.WebApp -> Microsoft.VisualStudio.Web.CodeGeneration.Design 6.0.10 -> Microsoft.DotNet.Scaffolding.Shared 6.0.10 -> Microsoft.CodeAnalysis.CSharp.Features 4.0.0 -> Microsoft.CodeAnalysis.Workspaces.Common (= 4.0.0).",
+      "projectPath": "D:\\Programming\\Containers and Cloud\\Tema8\\TaskBoard-ASP.NET-App\\TaskBoard.WebApp\\TaskBoard.WebApp.csproj",
+      "filePath": "D:\\Programming\\Containers and Cloud\\Tema8\\TaskBoard-ASP.NET-App\\TaskBoard.WebApp\\TaskBoard.WebApp.csproj",
+      "libraryId": "Microsoft.CodeAnalysis.Workspaces.Common",
+      "targetGraphs": [
+        "net11.0"
       ]
     }
   ]
